@@ -39,9 +39,9 @@ Este proyecto marca un hito en nuestra estrategia de transformación digital:
 
 Nuestra identidad visual se refleja en toda la plataforma:
 
-- **Primario**: `#003366` (Azul institucional)
-- **Secundario**: `#FFD700` (Dorado confianza)
-- **Acento**: `#009933` (Verde prosperidad)
+- **Primario**: `#FF0901` (Rojo institucional)
+- **Secundario**: `#FFC200` (Amarillo institucional)
+- **Acento**: `#000` (Negro)
 
 Estos colores transmiten solidez financiera, confianza y crecimiento.
 
@@ -69,4 +69,4 @@ Este proyecto es propiedad de Caja Trujillo. Todos los derechos reservados.
 
 ---
 
-Desarrollado con 💼 por el equipo de Innovación Digital de Caja Trujillo
+Desarrollado con 💼 por el equipo de Desarrollo de Software de Caja Trujillo
