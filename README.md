@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🏦 Caja Trujillo Web - Renovación Digital
 
-## Getting Started
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-First, run the development server:
+## 🌟 Visión General
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Bienvenido al repositorio de la renovación web de Caja Trujillo. Este proyecto representa nuestra transformación digital, ofreciendo una plataforma financiera moderna, segura y eficiente para nuestros clientes.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🔗 [www.cajatrujillo.com.pe](https://www.cajatrujillo.com.pe)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Tecnologías Clave
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **React**: Para una interfaz de usuario interactiva y dinámica.
+- **Next.js**: Aprovechando el renderizado del lado del servidor (SSR) para una carga rápida y optimización SEO.
+- **Tailwind CSS**: Para un diseño responsivo y personalizado.
+- **TypeScript**: Añadiendo robustez y mantenibilidad a nuestro código.
 
-## Learn More
+## 💡 Características Principales
 
-To learn more about Next.js, take a look at the following resources:
+- **Banca en Línea Mejorada**: Acceso seguro y fácil a cuentas y servicios financieros.
+- **Simuladores de Créditos y Ahorros**: Herramientas interactivas para planificación financiera.
+- **Portal de Pagos**: Facilitando transacciones y pagos de servicios.
+- **Centro de Atención al Cliente Virtual**: Soporte en línea mejorado.
+- **Diseño Responsivo**: Experiencia óptima en todos los dispositivos.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Transformación Digital en Servicios Financieros
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Este proyecto marca un hito en nuestra estrategia de transformación digital:
 
-## Deploy on Vercel
+- **Seguridad Reforzada**: Implementación de las últimas tecnologías en seguridad financiera.
+- **Eficiencia Operativa**: Optimización de procesos internos y atención al cliente.
+- **Experiencia del Usuario**: Interfaz intuitiva y personalizada para cada cliente.
+- **Integración de Sistemas**: Conexión seamless con nuestros sistemas de gestión financiera.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🌈 Identidad Visual
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Nuestra identidad visual se refleja en toda la plataforma:
+
+- **Primario**: `#003366` (Azul institucional)
+- **Secundario**: `#FFD700` (Dorado confianza)
+- **Acento**: `#009933` (Verde prosperidad)
+
+Estos colores transmiten solidez financiera, confianza y crecimiento.
+
+## 🔮 Futuro y Desarrollo Continuo
+
+Estamos comprometidos con la innovación continua:
+
+- Implementación de IA para asesoramiento financiero personalizado
+- Integración con tecnologías blockchain para transacciones más seguras
+- Expansión de servicios financieros digitales
+
+## 🤝 Contribuciones
+
+Valoramos las contribuciones de nuestro equipo de desarrollo. Para contribuir:
+
+1. Clona el repositorio
+2. Crea una nueva rama (`git checkout -b feature/NuevaCaracteristica`)
+3. Realiza tus cambios y haz commit (`git commit -m 'Añadir NuevaCaracteristica'`)
+4. Push a la rama (`git push origin feature/NuevaCaracteristica`)
+5. Abre un Pull Request para revisión
+
+## 📄 Licencia
+
+Este proyecto es propiedad de Caja Trujillo. Todos los derechos reservados.
+
+---
+
+Desarrollado con 💼 por el equipo de Innovación Digital de Caja Trujillo
